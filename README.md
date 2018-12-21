@@ -1,5 +1,5 @@
 # Naive-Bayes-Classification
-Implemetation of basic Naive Bayes Classification Algorithm.
+Implementation of basic Naive Bayes Classification Algorithm.
 
 # naive_bayes.py
 Main python file contains algorithm, just change the data file name in it and run it.
